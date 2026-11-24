@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>BOLETIM ESCOLAR</title>
+</head>
+<body>
+    <p align="center">
+        ESCOLA
+    </p>
+    <p align="left">
+        ALUNO
+    </p>
+    <p align="right">
+        23/11/2026
+    </p>
+    <table width="80%" border="3" align="center">
+        <tr>
+            <th colspan="4" bgcolor="gray">BOLETIM ESCOLAR</th>
+        </tr>
+        <tr>
+            <th>Área</th>
+            <th>Disciplina</th>
+            <th>Nota</th>
+            <th>Situação</th>
+        </tr>
+        <tr>
+            <th>Tecnologia</th>
+            <td>Programação básica para internet</td>
+            <td>7</td>
+            <td>Aprovado</td>
+        </tr>
+        <tr>
+            <th>Idiomas</th>
+            <td>Inglês técnico</td>
+            <td>9</td>
+            <td>Aprovado</td>
+        </tr>
+    </table>
+    <p align="center">OBS:a média mínima exigida para aprovação é 6.</p>
+</body>
+</html>
